@@ -1,2 +1,4 @@
 # Dhikaweb
-My Portofolio 
+---
+
+Sekedar catatan pribadi dan blog
